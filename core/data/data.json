@@ -1,0 +1,20 @@
+{
+    "url":{
+        "home_page":"https://www.asos.com/women/"
+    },
+    "data":{
+        "email":"merjem.ahmedspahic@stu.ibu.edu.ba",
+        "firstName":"Merjem",
+        "lastName":"Ahmedspahic",
+        "password":"meriMeri1234"
+    },
+
+    
+    "dataLogin":{
+        "email":"merjem.ahmedspahic@stu.ibu.edu.ba",
+        "password":"nisamSigurna6767"
+    },
+    "search":{
+        "item":"Men Tshirt"
+    }
+}
