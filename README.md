@@ -11,7 +11,7 @@ This project outlines a comprehensive testing strategy for the Asos.com website,
 ### Functional Test Cases
 ***
 
-* Verify new user registration
+* Verify new user registration                        
 * Validate input data
 * Test user login functionality
 * Ensure search returns relevant results
@@ -19,8 +19,10 @@ This project outlines a comprehensive testing strategy for the Asos.com website,
 * Verify the ability to add products to the cart
 * Validate cart contents and pricing
 * Test the purchase process
-* Verify account updates and deletions
-* Test payment methods and accuracy
-* Ensure mobile functionality
+* Validate the ability to add products to the wish list
+* Validate accessing help center
+* Validate sorting function
   
+
+
 
